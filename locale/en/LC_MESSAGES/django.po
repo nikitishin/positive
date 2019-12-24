@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-17 17:00+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\vbot\utils.py:71
+msgid "Меню"
+msgstr "Menu"
+
+#: .\vbot\utils.py:82
+msgid "Промо-код"
+msgstr "Promo-code"
+
+#: .\vbot\utils.py:93
+msgid "Изменить язык"
+msgstr "Change language"
+
+#: .\vbot\utils.py:104
+msgid "Изменить часовой пояс"
+msgstr "Change time zone"
+
+#: .\vbot\utils.py:115
+msgid "Рассказать про меня"
+msgstr "Tell about me"
+
+#: .\vbot\utils.py:126
+msgid "Ввести код авторизации"
+msgstr "Enter authorization code"
+
+#: .\vbot\utils.py:137
+msgid "Отправить отзыв разработчикам"
+msgstr "Send feedback to developers"
+
+#: .\vbot\utils.py:148
+msgid "Помощь"
+msgstr "Help"
+
+#: .\vbot\utils.py:175
+msgid "Балансы"
+msgstr "Balance"
+
+#: .\vbot\utils.py:186
+msgid "Транзакции"
+msgstr "Transactions"
+
+#: .\vbot\utils.py:197
+msgid "Точки"
+msgstr "Points"
+
+#: .\vbot\utils.py:208
+msgid "Изменить позитив"
+msgstr "Change positive"
+
+#: .\vbot\utils.py:231
+msgid "Вернуться в предыдущее меню"
+msgstr "Return to previous menu."
+
+#: .\vbot\views.py:100
+msgid "Номер записан. Смотрите что я умею"
+msgstr "The number is recorded. See what I can do"
+
+#: .\vbot\views.py:151
+msgid "HELP_TEXT"
+msgstr ""
+"Hello! Good to see you. I can help you manage your account in various "
+"positives. See what I can do:\n"
+"Menu show menu\n"
+"Promo code: use the promo code for a discount or a gift\n"
+"Change language\n"
+" Change time zone\n"
+" Change positive\n"
+" Balances: see your balances in the current Positive\n"
+"Points: see system members\n"
+"Transactions: see your transactions in the current Positive\n"
+"PIN: to enter the authorization code or confirmation\n"
+"Share information about me\n"
+"Send feedback to my developers"
